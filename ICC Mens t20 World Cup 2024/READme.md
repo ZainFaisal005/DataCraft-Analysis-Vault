@@ -55,7 +55,10 @@ The app is divided into four main sections:
 
 ### Steps to Run
 1. Clone the repository:
-
+   ```bash
+   git clone https://github.com/ZainFaisal005/DataCraft-Analysis-Vault/tree/main/ICC%20Mens%20t20%20World%20Cup%202024.git
+   cd ICC%20Mens%20t20%20World%20Cup%202024
+   ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -65,6 +68,13 @@ The app is divided into four main sections:
    streamlit run app.py
    ```
 4. Open your browser and navigate to the URL provided in the terminal (usually `http://localhost:8501`).
+
+---
+
+## Deployment on Hugging Face
+The app is deployed on **Hugging Face Spaces**, making it accessible to anyone with an internet connection. You can explore the live app by clicking the link below:
+
+👉 **[Live App on Hugging Face](https://huggingface.co/spaces/ZainFaisal/ICC-Mens-t20-World-Cup-2024-ANALYSIS)**
 
 ---
 
@@ -88,7 +98,6 @@ icc-t20-world-cup-2024-analysis/
 ```
 
 ---
-
 
 ## Key Insights
 1. **Team Performance**: Teams with higher win percentages often perform better in high-pressure situations.
@@ -130,3 +139,7 @@ For any questions or feedback, feel free to reach out:
 ---
 
 Thank you for exploring the **ICC Men's T20 World Cup 2024 Analysis** project! 🏏
+
+👉 **[Explore the Live App on Hugging Face](https://huggingface.co/spaces/ZainFaisal/ICC-Mens-t20-World-Cup-2024-ANALYSIS)**
+
+---
